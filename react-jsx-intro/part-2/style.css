@@ -1,0 +1,14 @@
+.tweet {
+    border: 4px solid #BA90CB;
+    border-radius: 3px;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+}
+
+.username,
+.date {
+    display: inline-block;
+    margin: 0 10px;
+}
